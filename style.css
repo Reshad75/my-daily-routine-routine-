@@ -1,0 +1,39 @@
+.blog
+{
+    background-color: rgba(255, 0, 60, 0.847);
+    font-size: larger;
+    font-style: oblique;
+    font-weight: 900;
+    text-overflow: ellipsis;
+    text-decoration: dotted;
+    
+
+}
+
+.vlog{
+    background-color: cyan;
+    font-weight: 900;
+    font-style: inherit;
+}
+.tlog{
+    background-color: rgb(81, 81, 214);
+    background-position: initial;
+}
+table{
+    border-radius: 100;
+    margin-top: 5%;
+    background-size: cover;
+}
+th{
+    color: rgb(195, 0, 255);
+    font-weight: bolder;
+    text-decoration: double;
+    margin-inline: background: #fff;;
+    background-color: rgb(81, 81, 214)
+
+}
+caption{
+    font-weight: 900;
+    margin-top: 10%;
+    margin-inline-start: 25%;
+}
